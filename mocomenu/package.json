@@ -1,0 +1,12 @@
+{
+  "name": "mocomenu",
+  "version": "0.1.0",
+  "description": "mocomenu electron apps",
+  "private": true,
+  "workspaces": [
+    "app"
+  ],
+  "devDependencies": {
+    "electron": "^17.2.0"
+  }
+}
