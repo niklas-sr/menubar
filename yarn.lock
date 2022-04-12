@@ -1894,6 +1894,11 @@ electron-positioner@^4.1.0:
   resolved "https://registry.yarnpkg.com/electron-positioner/-/electron-positioner-4.1.0.tgz#e158f8f6aabd6725a8a9b4f2279b9504bcbea1b0"
   integrity sha512-726DfbI9ZNoCg+Fcu6XLuTKTnzf+6nFqv7h+K/V6Ug7IbaPMI7s9S8URnGtWFCy5N5PL4HSzRFF2mXuinftDdg==
 
+electron-request@^1.8.1:
+  version "1.8.1"
+  resolved "https://registry.yarnpkg.com/electron-request/-/electron-request-1.8.1.tgz#a0235adadf37ad641f8535d71e2c8e1026002dd9"
+  integrity sha512-YECjfda3VFMKQE3f6l9jdLuMfl99TWrcLQItxlELOnPQo8SLpyVgMifjyrsX3aJuYn1FIskghLKNEzT5C5cSLg==
+
 electron-to-chromium@^1.4.84:
   version "1.4.96"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.96.tgz#a97438a01d5db1460343fea4a344960b09330990"
@@ -5684,6 +5689,11 @@ url-parse-lax@^3.0.0:
   integrity sha1-FrXK/Afb42dsGxmZF3gj1lA6yww=
   dependencies:
     prepend-http "^2.0.0"
+
+urlcat@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/urlcat/-/urlcat-2.0.4.tgz#c119b4e3b31df4d140e77e177ea5d95dbe6b2fe2"
+  integrity sha512-12c4Vi40DHVdZ/8mOLjZjp0asCzM6hi8Gj116fpImRP1FN4gBMCtMi9XhLNOmre/FEQYNqHbZmX8iyYAtIcy8Q==
 
 use@^3.1.0:
   version "3.1.1"
